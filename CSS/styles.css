@@ -36,5 +36,22 @@ div h5 {
 .list-friday ul li:first-child{
     background-color: violet;
 }
-
-
+.button {
+    font-size: 20px;
+    border: 1px solid black;
+}
+.red:hover {
+    background-color: red;
+}
+.blue:focus{
+    background-color: blue;
+}
+.green:active{
+    background-color: green;
+}
+.google:link{
+    color: greenyellow;
+}
+.youtube:visited{
+    color: fuchsia;
+}
